@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'my-unique-ruby-package-name'
-  s.version = '5.5.103'
+  s.version = '5.5.104'
   s.summary = 'ruby package for demo purposes'
   s.description = ''
   s.authors = [' RandomRubyPerson1']
