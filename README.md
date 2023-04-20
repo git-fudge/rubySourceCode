@@ -10,16 +10,16 @@ Simple calculator API hosted on APIMATIC
 Install the gem from the command line:
 
 ```ruby
-gem install my-unique-ruby-package-name -v 5.5.102
+gem install my-unique-ruby-package-name -v 5.5.103
 ```
 
 Or add the gem to your Gemfile and run `bundle`:
 
 ```ruby
-gem 'my-unique-ruby-package-name', '5.5.102'
+gem 'my-unique-ruby-package-name', '5.5.103'
 ```
 
-For additional gem details, see the [RubyGems page for the my-unique-ruby-package-name gem](https://rubygems.org/gems/my-unique-ruby-package-name/versions/5.5.102).
+For additional gem details, see the [RubyGems page for the my-unique-ruby-package-name gem](https://rubygems.org/gems/my-unique-ruby-package-name/versions/5.5.103).
 
 ## Test the SDK
 
@@ -31,7 +31,7 @@ rake
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://github.com/git-fudge/rubySourceCode/blob/5.5.102/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://github.com/git-fudge/rubySourceCode/blob/5.5.103/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -58,11 +58,11 @@ client = ApimaticCalculator::Client.new(
 
 ## List of APIs
 
-* [Simple Calculator](https://github.com/git-fudge/rubySourceCode/blob/5.5.102/doc/controllers/simple-calculator.md)
+* [Simple Calculator](https://github.com/git-fudge/rubySourceCode/blob/5.5.103/doc/controllers/simple-calculator.md)
 
 ## Classes Documentation
 
-* [Utility Classes](https://github.com/git-fudge/rubySourceCode/blob/5.5.102/doc/utility-classes.md)
-* [HttpResponse](https://github.com/git-fudge/rubySourceCode/blob/5.5.102/doc/http-response.md)
-* [HttpRequest](https://github.com/git-fudge/rubySourceCode/blob/5.5.102/doc/http-request.md)
+* [Utility Classes](https://github.com/git-fudge/rubySourceCode/blob/5.5.103/doc/utility-classes.md)
+* [HttpResponse](https://github.com/git-fudge/rubySourceCode/blob/5.5.103/doc/http-response.md)
+* [HttpRequest](https://github.com/git-fudge/rubySourceCode/blob/5.5.103/doc/http-request.md)
 
