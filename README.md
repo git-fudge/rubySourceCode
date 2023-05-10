@@ -10,16 +10,16 @@ Simple calculator API hosted on APIMATIC
 Install the gem from the command line:
 
 ```ruby
-gem install my-unique-ruby-package-name -v 1.11.997
+gem install my-unique-ruby-package-name -v 1.11.996
 ```
 
 Or add the gem to your Gemfile and run `bundle`:
 
 ```ruby
-gem 'my-unique-ruby-package-name', '1.11.997'
+gem 'my-unique-ruby-package-name', '1.11.996'
 ```
 
-For additional gem details, see the [RubyGems page for the my-unique-ruby-package-name gem](https://rubygems.org/gems/my-unique-ruby-package-name/versions/1.11.997).
+For additional gem details, see the [RubyGems page for the my-unique-ruby-package-name gem](https://rubygems.org/gems/my-unique-ruby-package-name/versions/1.11.996).
 
 ## Test the SDK
 
@@ -31,7 +31,7 @@ rake
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/git-fudge/rubySourceCode/tree/1.11.997/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/git-fudge/rubySourceCode/tree/1.11.996/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -58,11 +58,11 @@ client = ApimaticCalculator::Client.new(
 
 ## List of APIs
 
-* [Simple Calculator](https://www.github.com/git-fudge/rubySourceCode/tree/1.11.997/doc/controllers/simple-calculator.md)
+* [Simple Calculator](https://www.github.com/git-fudge/rubySourceCode/tree/1.11.996/doc/controllers/simple-calculator.md)
 
 ## Classes Documentation
 
-* [Utility Classes](https://www.github.com/git-fudge/rubySourceCode/tree/1.11.997/doc/utility-classes.md)
-* [HttpResponse](https://www.github.com/git-fudge/rubySourceCode/tree/1.11.997/doc/http-response.md)
-* [HttpRequest](https://www.github.com/git-fudge/rubySourceCode/tree/1.11.997/doc/http-request.md)
+* [Utility Classes](https://www.github.com/git-fudge/rubySourceCode/tree/1.11.996/doc/utility-classes.md)
+* [HttpResponse](https://www.github.com/git-fudge/rubySourceCode/tree/1.11.996/doc/http-response.md)
+* [HttpRequest](https://www.github.com/git-fudge/rubySourceCode/tree/1.11.996/doc/http-request.md)
 
